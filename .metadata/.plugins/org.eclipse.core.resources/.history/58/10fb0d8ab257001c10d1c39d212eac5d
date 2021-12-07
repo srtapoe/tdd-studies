@@ -1,0 +1,48 @@
+package com.oliveira.calculofatorial;
+
+import org.assertj.core.api.Assertions;
+import org.junit.Before;
+import org.junit.Test;
+
+public class FatorialTeste {
+	
+	
+	Fatorial fatorial = new Fatorial();
+	
+	@Before
+	public void Setup() {
+		int numeroNegativo = -2;
+		int numero = 0;
+	}
+	
+	//entrada de numeros negativos
+	@Test(expected = RuntimeException.class)
+	public void calculoFatorialNumerosNegativos(int numeroNegativo) {
+		
+		//cenario
+		
+		
+		//execucao
+		int fat = fatorial.calculoFatorial(numeroNegativo);
+
+		//verificação
+		Assertions.assertThat(fat).isEqualTo(-2);
+		
+	}
+	
+	@Test
+	public void calculoFatorialEntradaZero(int numero) {
+		
+		
+		//cenario
+	
+		
+		//execucao
+		int fat = fatorial.calculoFatorial(numero);
+
+		//verificação
+		Assertions.assertThat(fat).isEqualTo(1);
+		
+	}
+
+}

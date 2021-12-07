@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/joanice/Vídeos/tdd-studies/.metadata/.plugins/org.eclipse.jdt.core
+3803071987.index
+893923771.index
+3952912064.index

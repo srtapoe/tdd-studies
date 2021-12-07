@@ -1,0 +1,24 @@
+package primeiroteste;
+
+import org.junit.Test;
+
+import org.assertj.core.api.Assertions;
+
+public class PrimeiroTeste {
+
+	@SuppressWarnings("deprecation")
+	@Test
+	public void testandoSoma() {
+		
+		//cenario
+		Calculadora calculadora = new Calculadora();
+		
+		
+		//execução
+		int resultado = calculadora.somar(10,2);
+		int resultado = numero1 + numero2;
+		
+		//verificação
+		Assertions.assertThat(resultado).isEqualTo(7);
+	}
+}

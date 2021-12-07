@@ -1,0 +1,21 @@
+package primeiroteste;
+
+import org.junit.Test;
+
+import org.assertj.core.api.Assertions;
+
+public class PrimeiroTeste {
+
+	@SuppressWarnings("deprecation")
+	@Test
+	public void testandoSoma() {
+		//cenario
+		int numero1 = 5, numero2 = 2;
+		
+		//execução
+		int resultado = numero1 + numero2;
+		
+		//verificação
+		Assert.assertEquals(7, resultado);
+	}
+}

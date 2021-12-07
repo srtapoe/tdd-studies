@@ -1,0 +1,21 @@
+package primeiroteste;
+
+import org.junit.Test;
+
+import junit.framework.Assert;
+
+public class PrimeiroTeste {
+
+	@SuppressWarnings("deprecation")
+	@Test
+	public void estruturaDeUmTeste() {
+		//cenario
+		int numero1 = 5, numero2 = 2;
+		
+		//execução
+		int resultado = numero1 + numero2;
+		
+		//verificação
+		Assert.assertEquals(15, resultado);
+	}
+}

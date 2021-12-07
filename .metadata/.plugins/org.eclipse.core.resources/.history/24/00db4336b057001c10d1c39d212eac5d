@@ -1,0 +1,19 @@
+package com.oliveira.calculofatorial;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class FatorialTeste {
+	
+	Fatorial fatorial = new Fatorial();
+	
+	@Before
+	int numeroNegativo = - 2;
+	
+	@Test
+	public void calculoFatorialNumerosNegativos(int numeroNegativo) {
+		
+		
+	}
+
+}

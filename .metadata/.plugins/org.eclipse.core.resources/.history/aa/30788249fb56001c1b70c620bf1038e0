@@ -1,0 +1,38 @@
+package primeiroteste;
+
+import org.junit.Test;
+
+import org.assertj.core.api.Assertions;
+
+public class PrimeiroTeste {
+
+	@SuppressWarnings("deprecation")
+	@Test
+	public void testandoSoma() {
+		
+		//cenario
+		Calculadora calculadora = new Calculadora();
+		int numero1 = 10, numero2 = 2;
+		
+		//execução
+		int resultado = calculadora.somar(numero1,numero2);
+	
+		
+		//verificação
+		Assertions.assertThat(resultado).isEqualTo(12);
+	}
+	
+	@Test
+	public void testandoEntradaNumerosNegativos() {
+		//cenario
+		Calculadora calculadora = new Calculadora();
+		int numero1 =  - 10, numero2 = 2;
+				
+		//execução
+		int resultado = calculadora.somar(numero1,numero2);
+			
+				
+		//verificação
+		Assertions.assertThat(resultado).isEqualTo(12);
+	}
+}

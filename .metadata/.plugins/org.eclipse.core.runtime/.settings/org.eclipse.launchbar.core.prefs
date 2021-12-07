@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:CamelCaseConversorTest,org.eclipse.launchbar.core.descriptorType.default\:VendaTest,org.eclipse.launchbar.core.descriptorType.default\:PrimeiroTeste,org.eclipse.launchbar.core.descriptorType.default\:FatorialTeste
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:CamelCaseConversorTest/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:CamelCaseConversorTest/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:PrimeiroTeste/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:PrimeiroTeste/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:VendaTest/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:VendaTest/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
