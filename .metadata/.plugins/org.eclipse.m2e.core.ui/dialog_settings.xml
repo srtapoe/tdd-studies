@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/joanice/Vídeos/tdd-studies/fatorial/cadastrandoherois"/>
+			<item value="/home/joanice/Vídeos/tdd-studies/fatorial/calculofatorial"/>
+			<item value="/home/joanice/Vídeos/tdd-studies/fatorial"/>
+			<item value="/home/joanice/Vídeos/tdd-studies/vendas-livros"/>
 			<item value="/home/joanice/Vídeos/tdd-studies/camel-case"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,10 +30,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.oliveira.cadastrosuperherois"/>
 		</list>
 		<list key="groupId">
+			<item value="com.oliveira"/>
 		</list>
 		<list key="artifactId">
+			<item value="cadastrosuperherois"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -45,13 +52,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.oliveira"/>
 		</list>
 		<list key="name">
-			<item value="primeiroteste"/>
 		</list>
 		<list key="artifactId">
-			<item value="primeiroteste"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

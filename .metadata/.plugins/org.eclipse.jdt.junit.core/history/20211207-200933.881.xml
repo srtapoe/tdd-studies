@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="FatorialTeste" project="calculofatorial" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.oliveira.calculofatorial.FatorialTeste" time="0.26">
-    <testcase name="calculoFatorialNumerosNegativos" classname="com.oliveira.calculofatorial.FatorialTeste" time="0.0"/>
-    <testcase name="calculoFatorialEntradaZero" classname="com.oliveira.calculofatorial.FatorialTeste" time="0.26"/>
-  </testsuite>
-</testrun>
