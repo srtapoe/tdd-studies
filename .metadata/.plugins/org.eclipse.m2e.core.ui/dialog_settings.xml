@@ -30,13 +30,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.oliveira.cadastrosuperherois"/>
+			<item value="com.oliveira.notas_alunos"/>
 		</list>
 		<list key="groupId">
 			<item value="com.oliveira"/>
 		</list>
 		<list key="artifactId">
-			<item value="cadastrosuperherois"/>
+			<item value="notas-alunos"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -72,5 +72,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/joanice/Vídeos/tdd-studies/mercado-niveirs"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>
