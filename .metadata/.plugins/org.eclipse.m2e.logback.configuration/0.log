@@ -4666,3 +4666,15 @@ org.eclipse.core.runtime.CoreException: Launch configuration Turma references cl
 2021-12-22 16:41:51,803 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joanice/Vídeos/tdd-studies/notas-alunos/src/main/resources
 2021-12-22 16:41:51,807 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-12-22 16:41:51,807 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joanice/Vídeos/tdd-studies/notas-alunos/src/test/resources
+2021-12-22 16:50:15,209 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:50:15,210 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joanice/Vídeos/tdd-studies/notas-alunos/src/main/resources
+2021-12-22 16:50:15,222 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:50:15,223 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joanice/Vídeos/tdd-studies/notas-alunos/src/test/resources
+2021-12-22 16:50:22,013 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:50:22,013 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joanice/Vídeos/tdd-studies/notas-alunos/src/main/resources
+2021-12-22 16:50:22,018 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:50:22,019 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joanice/Vídeos/tdd-studies/notas-alunos/src/test/resources
+2021-12-22 16:50:29,376 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:50:29,377 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joanice/Vídeos/tdd-studies/notas-alunos/src/main/resources
+2021-12-22 16:50:29,400 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-22 16:50:29,401 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/joanice/Vídeos/tdd-studies/notas-alunos/src/test/resources
