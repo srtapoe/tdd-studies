@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/joanice/Vídeos/tdd-studies/notas-alunos"/>
 			<item value="/home/joanice/Vídeos/tdd-studies/fatorial/cadastrandoherois"/>
 			<item value="/home/joanice/Vídeos/tdd-studies/fatorial/calculofatorial"/>
 			<item value="/home/joanice/Vídeos/tdd-studies/fatorial"/>
@@ -30,12 +31,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.oliveira.calcula_media"/>
 			<item value="com.oliveira.notas_alunos"/>
 		</list>
 		<list key="groupId">
 			<item value="com.oliveira"/>
 		</list>
 		<list key="artifactId">
+			<item value="calcula-media"/>
 			<item value="notas-alunos"/>
 		</list>
 		<list key="projectNameTemplate">

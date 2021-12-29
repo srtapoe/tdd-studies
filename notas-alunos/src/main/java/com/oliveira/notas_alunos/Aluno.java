@@ -41,13 +41,13 @@ double receberNotas() {
 	   nota3 = dadosEntrada.nextDouble();
 			        
 			        // calcula a média
-	   mediaAluno = (nota1 + nota2 + nota3) / 3;
+	 mediaAluno = (nota1 + nota2 + nota3) / 3;
 			        j++;
 				}
 			        
 }					
 
-double verificarMedia() {
+double verificarMedia(double[] notas2) {
 	double notas[] = {nota1, nota2,nota3};
 	  menorNota = notas[0];
 	  for(i = 0; i<notas.length;i++) {
@@ -79,7 +79,7 @@ double verificarMedia() {
 	System.out.printf("Média da turma: %.2f \n ", mediaAcumulada / qtdeAlunos);
 
 }
-	}
+}
 				
 
 		
